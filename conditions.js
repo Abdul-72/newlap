@@ -1,7 +1,7 @@
 const ageOfPerson = 17
 if (ageOfPerson > 18) {
     console.log("eligible to get vote");
-
+ 
 } else {
     console.log("not elgible to vote");
 }   

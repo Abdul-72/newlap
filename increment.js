@@ -28,6 +28,13 @@ console.log(condition);
 
 var turnary = 10==2 ? "abdul is present" : "abdul is not present"
 console.log(turnary);
+ const div = 10 
+ const div2 = 20
+ 
+ if (div%10===0 || div2%10===0) {
+     console.log("both are divisible by 10"); 
+ } else {console.log("not divisible bt 10");}
+
 
  
 
